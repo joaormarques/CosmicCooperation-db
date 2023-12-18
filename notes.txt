@@ -1,0 +1,7 @@
+Database Repository:
+Name: CosmicCooperation-db
+Description: Database scripts and schemas for MongoDB.
+Contents:
+MongoDB schema definitions
+Data migration scripts
+Seed data for testing
